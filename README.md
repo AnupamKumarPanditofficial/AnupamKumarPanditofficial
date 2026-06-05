@@ -30,45 +30,10 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **AI Resume Analyzer** | Intelligent resume parser & analyzer with skill extraction, ATS optimization scoring, and AI-powered improvement suggestions | Java, Spring Boot, React.js, TypeScript, MongoDB, Google Gemini AI (LLM), Tailwind CSS, Docker, Vercel & Render. | [Live](https://ai-resume-analys-git-ea6168-anupamkumarpanditofficials-projects.vercel.app/) · [Repo](#) |
-| **ScamGuard** | Browser extension that detects phishing sites in <1.5s with a risk scoring engine | FastAPI, Manifest V3, Python, Pydantic | [Live](#) · [Repo](#) |
-| **MyBiharOne** | Regional news & community platform for Bihar — live at mybiharone.me | Next.js, TypeScript, Firebase | [Live](https://mybiharone.me) · [Repo](#) |
+| **AI Resume Analyzer** | Intelligent resume parser & analyzer with skill extraction, ATS optimization scoring, and AI-powered improvement suggestions | Java, Spring Boot, React.js, TypeScript, MongoDB, Google Gemini AI (LLM), Tailwind CSS, Docker, Vercel & Render. | [Live](https://ai-resume-analys-git-ea6168-anupamkumarpanditofficials-projects.vercel.app/) |
+| **ScamGuard** | Browser extension that detects phishing sites in <1.5s with a risk scoring engine | FastAPI, Manifest V3, Python, Pydantic  |
+| **MyBiharOne** | Regional news & community platform for Bihar — live at mybiharone.me | Next.js, TypeScript, Firebase | [Live](https://mybiharone.me) |
 
----
-
-## 🧠 Tech Stack
-
-**Frontend**
-```
-React.js · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3
-```
-
-**Backend & APIs**
-```
-Node.js · Express.js · FastAPI · Spring Boot · RESTful APIs · Pydantic
-```
-
-**AI / ML**
-```
-TensorFlow.js · NumPy · Pandas · scikit-learn · Gemini API · OpenAI API
-```
-
-**Databases**
-```
-MongoDB Atlas · MySQL · Firebase
-```
-
-**Cloud & DevOps**
-```
-AWS (EC2 · S3 · IAM) · Vercel · Render · Git · GitHub · Postman
-```
-
-**Languages**
-```
-JavaScript · TypeScript · Python · Java · C/C++ · SQL
-```
-
----
 
 ## 📊 DSA & Competitive Programming
 
