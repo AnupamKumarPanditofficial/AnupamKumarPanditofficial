@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anupam 👋</h1>
 
 <p align="center">
-  <b>AI-Powered Full Stack Developer</b> &nbsp;·&nbsp; React · Next.js · Node.js · FastAPI · AWS
+  <b>AI-Powered Full Stack Developer</b> &nbsp;·&nbsp; React · Next.js · Node.js · FastAPI · Java · Spring Boot · AWS
   <br/>
   Building products that ship — not just projects that sit on GitHub.
 </p>
@@ -22,7 +22,7 @@
 
 I'm a final-year ECE student who builds **full-stack, AI-integrated web products** — from a real-time proctored hiring platform to a browser extension that detects phishing in under 1.5 seconds.
 
-I work across the full stack: frontend with **React / Next.js / TypeScript**, backend with **Node.js / FastAPI**, ML pipelines with **TensorFlow.js / NumPy / Pandas**, AI integrations with **Gemini / OpenAI APIs**, and deployment on **AWS + Vercel + Render**.
+I work across the full stack: frontend with **React / Next.js / TypeScript**, backend with **Node.js / FastAPI / Spring Boot**, ML pipelines with **TensorFlow.js / NumPy / Pandas**, AI integrations with **Gemini / OpenAI**.
 
 ---
 
@@ -30,6 +30,7 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| **AI Resume Analyzer** | Intelligent resume parser & analyzer with skill extraction, ATS optimization scoring, and AI-powered improvement suggestions | FastAPI, Python, Gemini API, React, Tailwind CSS | [Live](#) · [Repo](#) |
 | **ProveHire** | AI-powered hiring portal with real-time exam proctoring via gaze detection | React, Node.js, TensorFlow.js, MongoDB, Gemini API | [Live](https://provehire.vercel.app) · [Repo](#) |
 | **ScamGuard** | Browser extension that detects phishing sites in <1.5s with a risk scoring engine | FastAPI, Manifest V3, Python, Pydantic | [Live](#) · [Repo](#) |
 | **MyBiharOne** | Regional news & community platform for Bihar — live at mybiharone.me | Next.js, TypeScript, Firebase | [Live](https://mybiharone.me) · [Repo](#) |
@@ -45,7 +46,7 @@ React.js · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3
 
 **Backend & APIs**
 ```
-Node.js · Express.js · FastAPI · RESTful APIs · Pydantic
+Node.js · Express.js · FastAPI · Spring Boot · RESTful APIs · Pydantic
 ```
 
 **AI / ML**
@@ -81,8 +82,8 @@ JavaScript · TypeScript · Python · Java · C/C++ · SQL
 
 ## 📌 Currently
 
-- 🔭 Working on **MyBiharOne** — Next.js + TypeScript + Firebase, live at [mybiharone.me](https://mybiharone.me)
-- 🌱 Deepening ML knowledge: Pandas pipelines, model deployment with FastAPI
+- 🔭 Working on **AI Resume Analyzer** — FastAPI + React + Gemini API for intelligent resume parsing
+- 🌱 Building with **Java & Spring Boot** — scaling backend systems
 - ☁️ Exploring **AWS** — S3, EC2, deploying backends at scale
 - 👀 Open to **SDE fresher roles** — Full Stack / Backend / AI-integrated products
 
