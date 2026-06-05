@@ -46,7 +46,6 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 ## 📌 Currently
 
-- 🔭 Working on **AI Resume Analyzer** — FastAPI + React + Gemini API for intelligent resume parsing
 - 🌱 Building with **Java & Spring Boot** — scaling backend systems
 - ☁️ Exploring **AWS** — S3, EC2, deploying backends at scale
 - 👀 Open to **SDE fresher roles** — Full Stack / Backend / AI-integrated products
@@ -55,9 +54,9 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 ## 🏅 Achievements
 
-- 🎓 **Reliance Foundation Undergraduate Scholar '22**
+- 🎓 **Reliance Foundation Undergraduate Scholar 2022 (among 5000 students in india)
 - 🏫 **Campus Ambassador** — IIM Bangalore (6 months)
-- 🏆 Participated in Smart India Hackathon (Qualifier), Tata Imagination Challenge, Google Solution Challenge
+- 🏆 Participated in Smart India Hackathon (College level winner as a team leader), Tata Imagination Challenge, Google Solution Challenge
 
 ---
 
