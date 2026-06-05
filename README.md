@@ -30,7 +30,7 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **AI Resume Analyzer** | Intelligent resume parser & analyzer with skill extraction, ATS optimization scoring, and AI-powered improvement suggestions | FastAPI, Python, Gemini API, React, Tailwind CSS | [Live](#) · [Repo](#) |
+| **AI Resume Analyzer** | Intelligent resume parser & analyzer with skill extraction, ATS optimization scoring, and AI-powered improvement suggestions | Java, Spring Boot, React.js, TypeScript, MongoDB, Google Gemini AI (LLM), Tailwind CSS, Docker, Vercel & Render. | [Live](#) · [Repo](#) |
 | **ProveHire** | AI-powered hiring portal with real-time exam proctoring via gaze detection | React, Node.js, TensorFlow.js, MongoDB, Gemini API | [Live](https://provehire.vercel.app) · [Repo](#) |
 | **ScamGuard** | Browser extension that detects phishing sites in <1.5s with a risk scoring engine | FastAPI, Manifest V3, Python, Pydantic | [Live](#) · [Repo](#) |
 | **MyBiharOne** | Regional news & community platform for Bihar — live at mybiharone.me | Next.js, TypeScript, Firebase | [Live](https://mybiharone.me) · [Repo](#) |
