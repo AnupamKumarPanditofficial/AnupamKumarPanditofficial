@@ -6,6 +6,7 @@
   Building products that ship — not just projects that sit on GitHub.
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anupamkpandit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -15,6 +16,9 @@
   &nbsp;
   <a href="mailto:anupampandit699@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+Portfolio - <a href="https://anupam-portfolio-2026.vercel.app">click here</link>
 
 ---
 
