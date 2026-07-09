@@ -41,7 +41,7 @@ I work across the full stack: frontend with **React / Next.js / TypeScript**, ba
 
 ## 📊 DSA & Competitive Programming
 
-- 🟡 **400+ problems** solved across LeetCode, GeeksforGeeks, and CodeChef
+- 🟡 **200+ problems** solved across LeetCode, GeeksforGeeks, and CodeChef
 - ⭐⭐⭐ **HackerRank SQL** — 4 star
 - ⭐⭐ **CodeChef** — 2 star
 - Languages: C++ (primary), Java, SQL
