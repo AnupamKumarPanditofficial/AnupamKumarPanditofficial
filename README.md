@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anupam 👋</h1>
 
 <p align="center">
-  <b>AI-Powered Full Stack Developer</b> &nbsp;·&nbsp; React · Next.js · Node.js · FastAPI · Java · Spring Boot · AWS
+  <b>AI-Powered Full Stack Developer</b> &nbsp;·&nbsp; React · Next.js · Node.js · Java · Spring Boot · AWS
   <br/>
   Building products that ship — not just projects that sit on GitHub.
 </p>
